@@ -1,15 +1,5 @@
 // components/Sidebar.tsx
 
-// import {
-//   Card,
-//   CardContent,
-//   CardDescription,
-//   CardFooter,
-//   CardHeader,
-//   CardTitle,
-// } from "@/components/ui/card"
-// import {Badge} from "@/components/ui/badge"
-
 import { getServerSession } from 'next-auth';
 import FriendsList from './FriendsList';
 import UserPanel from './UserPanel';
