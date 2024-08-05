@@ -11,7 +11,7 @@ import ReactQueryProvider from './context/ReactQueryProvider';
 
 export const metadata: Metadata = {
   title: 'Comfort Chat Secure App',
-  description: 'coded by alali emmanuel',
+  description: 'coded by Comfort',
 };
 
 export default function RootLayout({
